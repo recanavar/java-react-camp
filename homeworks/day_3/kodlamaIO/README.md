@@ -1,3 +1,3 @@
 ## kodlamaIO
 
-This src file contains the User, Instructor, Student, UserManager, InstructorManager, StudentManager classes.
+This src folder contains the User, Instructor, Student, UserManager, InstructorManager, StudentManager classes.
