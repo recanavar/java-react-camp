@@ -8,9 +8,6 @@ import javax.persistence.*;
 @Table(name = "job_seekers")
 @PrimaryKeyJoinColumn(name = "user_id")
 public class JobSeeker extends User {
-    /*@OneToOne(cascade = CascadeType.ALL)
-    @PrimaryKeyJoinColumn
-    private User user;*/
     @Column(name = "first_name")
     private String firstName;
     @Column(name = "last_name")
