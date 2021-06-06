@@ -2,6 +2,6 @@
 
 ### Job Positions API Output
 
-<img src="/hrms/ss/job_positions.png"
+<img src="/hrms/ss/jobpositions.png"
      style="float: left; margin-right: 10px;" />
 
